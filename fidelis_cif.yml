@@ -1,0 +1,30 @@
+parser: csv
+defaults:
+  provider: fidelissecurity.com
+  tlp: green
+  altid_tlp: white
+  confidence: 85
+  alt_tlp: green
+  tags:
+    - botnet
+
+feeds:
+  fidelis-hashes:
+    remote: https://raw.githubusercontent.com/fideliscyber/indicators/master/master-hashlist.csv
+    values:
+      - observable
+      - observable
+      - description
+      - lasttime
+  fidelis-ips:
+    remote: https://raw.githubusercontent.com/fideliscyber/indicators/master/master-ips.csv
+    values:
+      - observable
+      - description
+      - lasttime
+  fidelis-hostnames:
+    remote: https://raw.githubusercontent.com/fideliscyber/indicators/master/master-hostnames.csv
+    values:
+      - observable
+      - description
+      - lasttime
