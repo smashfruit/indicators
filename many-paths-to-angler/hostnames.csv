@@ -1,5 +1,4 @@
-# Master list of hostnames in all Fidelis Cybersecurity blogs and FTAs
-# Hostname,Description,Date added
+# Indicators from Many Paths to Angler Blog Post from 12/17/2015 on Threatgeek
 gffpkdhftg.ddnsking.com,Dynamic DNS Redirect used by Angler,12/23/2015
 uftbacu.ddnsking.com,Dynamic DNS Redirect used by Angler,12/23/2015
 dvusepghqm.ddnsking.com,Dynamic DNS Redirect used by Angler,12/23/2015
@@ -35,5 +34,3 @@ szwpcp.ddnsking.com,Dynamic DNS Redirect used by Angler,12/23/2015
 wchszwypr.hopto.org,Dynamic DNS Redirect used by Angler,12/23/2015
 ykdvjvsrb.ddnsking.com,Dynamic DNS Redirect used by Angler,12/23/2015
 yskivegvvb.ddnsking.com,Dynamic DNS Redirect used by Angler,12/23/2015
-inocnation.com,Domain used by INOCNATION campaign,12/15/2015
-mail.cbppnews.com,Hostname used by INOCNATION campaign,12/15/2015
