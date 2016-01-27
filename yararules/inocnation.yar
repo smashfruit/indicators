@@ -1,4 +1,4 @@
-rule apt_win32_dll_rat_1a53b0cp32e46g0qio7
+rule apt_win32_dll_rat_hiZorRAT
 {
 	meta:
 		hash1 = "75d3d1f23628122a64a2f1b7ef33f5cf"
