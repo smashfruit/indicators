@@ -6,7 +6,7 @@ The sample we uncover is the Linux 64-bit version.
 You can find the full report [here](https://www.fidelissecurity.com/resources/turbo-campaign-featuring-derusbi-64-bit-linux)
 
 ### Hash Research
-We crafted a yara rule based on the beacon strings found in the Linux 64-bit Derusbi and detected the following twenty-five (25) Windows version of Derusbi samples.  These files include 32-bit and 64-bit files, Dynamic Link Library (DLL) samples, and EXE samples where majority of the files detected appeared to have been compiled in 2011. These results helped us trace a stronger correlations between known Windows version of Derusbi with the Linux version of the report. The following are MD5 hashes of the samples detected:
+We crafted a yara rule based on the beacon strings found in the Linux 64-bit Derusbi and detected the following twenty-five (25) Windows version of Derusbi samples.  These files include 32-bit and 64-bit files, Dynamic Link Library (DLL) samples, and EXE samples where majority of the detected files were compiled in 2011. These results helped us trace a stronger correlations between known Windows version of Derusbi with the Linux version of the report. The following are MD5 hashes of the samples detected:
  
 	eeb636886ecc9ff3623d10f1efcf3c09 | 3a76b081fc7964ab239f26d356c59692 | 6802c21d3d0d80084bf93413dc0c23a7
 	d3ad90010c701e731835142fabb6bfcc | 449521ce87ed0111dcb0d4beff85064d | f942f98cff86f8fcde7eb0c2f465be7a
