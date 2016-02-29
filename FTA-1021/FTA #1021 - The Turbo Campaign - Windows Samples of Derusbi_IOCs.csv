@@ -1,4 +1,4 @@
-# We crafted a yara rule based on the, beacon, strings found in the Linux, 64-bit Derusbi, and detected the following, twenty-five, (25) Windows version of Derusbi, samples.
+# We crafted a yara rule based on the, beacon, strings found in the Linux, 64-bit Derusbi, and detected the following, twenty-five (25) Windows, version of Derusbi samples.,
 MD5,File Type,Compile Date (UTC),Mutex,XOR Key to decode driver,Rootkit MD5,C2,Port
 3804d23ddb141c977b98c2885953444f,32-bit DLL,Mon Oct 10 02:08:34 2011 ,Ace123dx,6A F5 44 3D,32d50cf8daac1424e7249437b31d5476,firefox.dyndns-free.com,80
 d3ad90010c701e731835142fabb6bfcc,32-bit DLL,Mon Jun 27 03:18:39 2011 ,Le12xv10,C3 76 33 9F,56fa8160643d3b50dd06ef3432c31414, isacat01.gicp.net,443
