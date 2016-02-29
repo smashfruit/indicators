@@ -1,6 +1,8 @@
 # [Turbo Campaign](https://www.fidelissecurity.com/resources/turbo-campaign-featuring-derusbi-64-bit-linux)
 In the summer of 2015, Fidelis Cybersecurity had the opportunity to analyze a Derusbi malware sample used as part of a campaign we’ve labeled Turbo, for the associated kernel module that was deployed. Derusbi has been widely covered and associated with Chinese threat actors. This malware has been reported to have been used in high profile breaches like the ones at Wellpoint/Anthem, VAE Inc, USIS and Mitsubishi Heavy Industries. Every one of these campaigns involved a Windows version of Derusbi.
 
+The sample we uncover is the Linux 64-bit version.
+
 You can find the full report [here](https://www.fidelissecurity.com/resources/turbo-campaign-featuring-derusbi-64-bit-linux)
 
 ### Hash Research
