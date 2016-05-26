@@ -6,7 +6,9 @@ defaults:
   confidence: 85
   alt_tlp: green
   tags:
-    - botnet
+    - botnets
+    - Crimware
+    - APT
 
 feeds:
   fidelis-hashes:
