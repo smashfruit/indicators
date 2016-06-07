@@ -3,7 +3,7 @@ Fidelis Cybersecurity has been investigating a new variant of Ursnif, a family o
 
 Even as ransomware dominates the headlines, banking trojans are a profitable mainstay of the criminal domain. As recently reported, ransomware like CryptXXX has acquired credential-theft capabilities, signaling a marriage of sorts within the crime family. Banking trojans have been the vehicle for numerous innovations in malware over the years. These developments in Ursnif show us that technical investment across the crime domain continues. The targeting of Italian and U.S. financial institutions also points to the global scope of opportunity for such criminal actors.
 
-[This post covers our analysis of these changes and how we reversed them. Further, we share configuration details as well as IOCs.](http://www.threatgeek.com/2016/06/new-ursnif-variant-targeting-italy-and-us.html)
+[Read our post on ThreatGeek as it covers our analysis of these changes and how we reversed them. Further, we share configuration details as well as IOCs.](http://www.threatgeek.com/2016/06/new-ursnif-variant-targeting-italy-and-us.html)
 
 ### Indicators
 	Ursnif targeting US and Italy:
