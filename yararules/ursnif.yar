@@ -1,5 +1,10 @@
 rule Ursnif_report_variant_memory
 {
+meta:
+ description = "Ursnif"
+ author = "Fidelis Cybersecurity"
+ reference = "New Ursnif Variant Targeting Italy and U.S - June 7, 2016"
+
 strings:
  $isfb1 = "/data.php?version=%u&user=%08x%08x%08x%08x&server=%u&id=%u&type=%u&name=%s"
  $isfb2 = "client.dll"

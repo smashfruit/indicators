@@ -5,26 +5,29 @@ Even as ransomware dominates the headlines, banking trojans are a profitable mai
 
 [Read our post on ThreatGeek as it covers our analysis of these changes and how we reversed them. Further, we share configuration details as well as IOCs.](http://www.threatgeek.com/2016/06/new-ursnif-variant-targeting-italy-and-us.html)
 
-### Indicators
+### Indicators (md5/sha256)
 	Ursnif targeting US and Italy:
-	d14ab7f83936d614346750fc83718b1b247cf36c148056d807f18b5685793abb
-	5e64011e7f61ee8738f49da42ca591a85b714c169ec6a74d60e9b8282d8ad050
+	  e8d104c97287ba98d3b750bf91a0b9c1
+	  d14ab7f83936d614346750fc83718b1b247cf36c148056d807f18b5685793abb
+		
+	  c3427fdb8003ba47f75a65df125f4ff3 
+	  5e64011e7f61ee8738f49da42ca591a85b714c169ec6a74d60e9b8282d8ad050
 	 
-	Javascript Downloaders:
-	22ce1f05b4531f6b312f6fc24246f5318b90b5366dcd647a42d680676db1cd73
-	34ad04778a5a1d50b55a6cd15663bf6433aea0608eb6349f5a18b96bd1e4ebc9
+	JavaScript Downloaders:
+	  4cf51d138bcace95fd0e280cdb02b038
+	  22ce1f05b4531f6b312f6fc24246f5318b90b5366dcd647a42d680676db1cd73
+	  
+	  4d72b546d1031dff9acf2c5a24ba4d12
+	  34ad04778a5a1d50b55a6cd15663bf6433aea0608eb6349f5a18b96bd1e4ebc9
 	 
-	Andromeda downloaded by javascript downloader
-	fuchsias[.]net/New_Folder/icq.scr 
-	
-	Andromeda:
-	6928891dfcf54ad70c5bf29aa1e518b1ab5f74a560099d9c9cc3e4a468811e59
+	Andromeda JavaScript downloader from "fuchsias[.]net/New_Folder/icq.scr":
+	  dd724d8f1f173b0d7ff0d5b0505b8eb7
+	  6928891dfcf54ad70c5bf29aa1e518b1ab5f74a560099d9c9cc3e4a468811e59
+	  
+	Andromeda binary from "antoniocaroli[.]it/prova/sd/LnMSLFOfwwout.exe":
+	  e8d104c97287ba98d3b750bf91a0b9c1
+	  d14ab7f83936d614346750fc83718b1b247cf36c148056d807f18b5685793abb
 
-
-
-Andromeda downloads Ursnif:
-
-antoniocaroli.it/prova/sd/LnMSLFOfwwout.exe
 
 ### Yara Rule for Ursnif variant detection
 
