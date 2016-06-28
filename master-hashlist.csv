@@ -1,5 +1,7 @@
 # Master list of hashes in all Fidelis ,Cybersecurity blogs and FTAs,,
-md5,sha256,description,date
+# md5,sha256,description,date
+5d56852cfa67dc2411b66276e3e4bc74,87eb4ac37261035011ab76c0cc8eb4a33d2bf701650d0e990145080a081798c9,Locky hash sample from Xenon blog,6/28/16
+e3103e07b2b20a2ea66fbbcf01e5fe13,7f7b02991ad6276e13d8eafdf648fdaa13b0815bf5e2d2391d73d002a2ce5347,Ruckgov hash sample from Xenon blog,6/28/16
 a7bd555866ae1c161f78630a638850e7,fce3dd4bd160b8c0698ca1dfba37bc49b3e1ad80cf77a31741bdbd2fa698be36,initial dropper for inocnation campaign,12/15/15
 4f4bf27b738ff8f2a89d1bc487b054a8,01a0c03f7e01bc41e91cff5d2610ac22da77dbfd01decf60c486b500390cd3ae,rat installer for inocnation campaign,12/15/15
 75d3d1f23628122a64a2f1b7ef33f5cf,cd07ac5947c643854375603800a4f70e2dfe202c8a1f801204328921cb3a2a4c,rat payload for inocnation campaign,12/15/15
