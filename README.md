@@ -10,9 +10,9 @@ This directory will also include a CIF config to routinely query and directly im
 
 # Latest Releases
 July 12, 2016:
-[IOC's]() from [Me and Mr. Robot: Tracking the Actor Behind the MAN1 Crypter](http://www.threatgeek.com/2016/07/tracking-man1-crypter-actor.html).
+[IOC's](https://git.io/vKlZb) from [Me and Mr. Robot: Tracking the Actor Behind the MAN1 Crypter](http://www.threatgeek.com/2016/07/tracking-man1-crypter-actor.html).
 
-[Click here]()
+[Click here](https://git.io/vKlZb)
 
 June 28, 2016:
 
