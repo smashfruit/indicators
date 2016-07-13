@@ -1,3 +1,4 @@
+![MAN1](http://threatgeek.typepad.com/.a/6a0147e41f3c0a970b01b8d2044f43970c-pi)
 # [Me and Mr. Robot: Tracking the Actor Behind the MAN1 Crypter](http://www.threatgeek.com/2016/07/tracking-man1-crypter-actor.html)
 With season two of Mr. Robot approaching, the storyline follows a hacker group that takes down an evil global corporation and collapses the financial market. Led by the mysterious Mr. Robot, the hackers use a variety of tricks to evade detection, and seem to cover their tracks at every turn. There are similarities shared by the show's hackers and real-life attackers.
 
