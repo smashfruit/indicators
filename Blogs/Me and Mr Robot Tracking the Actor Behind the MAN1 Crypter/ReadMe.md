@@ -7,7 +7,7 @@ Malware artifacts provide these valuable clues, serving as tools, techniques and
 
 Please review our research [here on our blog](http://www.threatgeek.com/2016/07/tracking-man1-crypter-actor.html)
 
- 	###Raw IOCs:
+ ###Raw IOCs:
 	 
 	#Chanitor:
 	o3qz25zwu4or5mak[.]tor2web[.]org/gate.php
