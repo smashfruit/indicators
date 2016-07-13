@@ -7,9 +7,9 @@ Malware artifacts provide these valuable clues, serving as tools, techniques and
 
 Please review our research [here on our blog](http://www.threatgeek.com/2016/07/tracking-man1-crypter-actor.html)
 
-###Raw IOCs:
+##Raw IOCs:
 	 
-#Chanitor:
+###Chanitor:
 	o3qz25zwu4or5mak[.]tor2web[.]org/gate.php
 	xdndo2okt43cjx44[.]tor2web.blutmagie[.]de/gate.php
 	xdndo2okt43cjx44[.]tor2web[.]fi/gate.php
@@ -28,7 +28,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	db36c2f4db086a7f8e483187289e1c93
 	f5efd86c80538e104503c309e458efa9
 	  
-#Vawtrak:
+###Vawtrak:
 	hartwelstay[.]com/stats/00/counter/0000003A/56EB9C2B
 	weltfarystar[.]com/stats/00/counter/0000003A/56EB9C2B
 	rewdepehat[.]ru/stats/00/counter/0000003A/56EB9C2B
@@ -192,7 +192,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	2e2e21875ad473bd71ff3d32b405ada3
 	0ad71b4f28064748b22f3853ec544402
 	  
-#Pony:
+###Pony:
 	mystoredoc[.]com/gate.php
 	sestoreinv[.]com/gate.php
 	menstoreins[.]com/gate.php
@@ -299,7 +299,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	3e7541a41b84046e4994f660bda5dadc
 	3bfc4c70be70456d607c7fdc054f7252
 	 
-#H1N1:
+###H1N1:
 	britecompanies[.]com/pm.dll
 	britecompanies[.]com/inst1.exe
 	buthimetrab[.]com:80/h/gate.php
@@ -325,7 +325,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	1265be272d9f4d37f34c0702c6841fb2	 
 	 
 	 
-#Nymaim:
+###Nymaim:
 	162.244.32.157:8458 – Gozi Module BackConnect Server
 	oxrdmfdis[.]in/deip7/index.php
 	oxrdmfdis[.]in/awxCAe1jyu/index.php
@@ -335,7 +335,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	90e4d03aff298fca4641acda4e6493f2
 	4cadf61e96c2d62292320c556fd34fe6
 	 	 
-#Andromeda:
+###Andromeda:
 	secure.adnxs.metalsystems[.]it/new_and/state.php
 	upfd.pilenga[.]co[.]uk/new_and/state.php
 	37.59.66.231/js/calc[.]pack
@@ -348,7 +348,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	Andromeda RC4 key:
 	15ed0db7475d3c93e06a3677c194f855
 	 
-#ISFB/Gozi:
+###ISFB/Gozi:
 	goyanok[.]at/krp3cmg/images/
 	outaplaceshave[.]cn/krp3cmg/images/
 	noopex[.]at/krp3cmg/images/
@@ -366,7 +366,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	 
 	797717b96a3422d27b68365b4d54ebe9568b7b705d31bdc745f72b40b778c1bb
 	 
-#Dyre:
+###Dyre:
 	nhgyzrn2p2gejk57wveao5kxa7b3nhtc4saoonjpsy65mapycaua[.]b32[.]i2p:443
 	62.122.69.172:4443
 	91.238.74.70:443
@@ -538,7 +538,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	46d84fb13afaab16b15322e52cd73b48
 	d6c0e93fce69f0e16ef11bc2e285be55
 	  
-#MacroDocs:
+###MacroDocs:
 	bankruptcy-software[.]com/wp-content/themes/classic/1.php?r
 	91.194.254.213/us/file.jpg
 	penis-enhancement-secrets[.]com/wp-content/plugins/lns.txt
@@ -572,7 +572,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	Older man1.exe from 20Jun2016:
 	4c4b2817873e0ae17cd05b7bd233d201
 	 
-#EmailLinks:
+###EmailLinks:
 	 
 	dovepersonnel[.]com[.]au/wp-content/plugins/cached_data/aa_ticket_9017937910.zip
 	easydash[.]com[.]br/wp-content/plugins/cached_data/aa_ticket_9017937910.zip
@@ -594,7 +594,7 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	drmuratcaglayan[.]com/wp-content/plugins/cached_data/aa_ticket_9017937910.zip
 	  
 	 
-#Dalexis:
+###Dalexis:
 	 
 	ofigesvi[.]es:80/modules/history.jpg
 	pbescastell[.]es:80/pcss/history.jpg
@@ -609,14 +609,14 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	35096228e2d6e644cdd51259dcdaf03d
 	 
 	
-#CTB-Locker:
+###CTB-Locker:
 	 
 	3fdzgtam4qk625n6[.]tor2web[.]blutmagie[.]de
 	 
 	cbde2e916ae7accb98bb247bb93846c9
 	 
 	  
-#ReactorBot:
+###ReactorBot:
 	 
 	rc7thuhy8agn43zzgi[.]biz
 	heckwassleftran[.]ru
@@ -634,6 +634,6 @@ Please review our research [here on our blog](http://www.threatgeek.com/2016/07/
 	eff29f0ba620760a42c1ac0514007bff
 	3f11c42687d09d4a56c715f671143a58
 	 
-#P2P Gozi variant:
+###P2P Gozi variant:
 	4e3a0ce170d66eaea6d55a3d6c551653
 	
