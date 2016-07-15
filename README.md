@@ -1,3 +1,7 @@
+<p align="center><a href="https://www.fidelissecurity.com/">
+![Fidelis Cybersecurity on Github]("logo.png")
+</a></p>
+
 # indicators
 
 The following is a listing of indicators from Fidelis Cybersecurity blog posts and FTAs.
