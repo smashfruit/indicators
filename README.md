@@ -1,5 +1,4 @@
-<p align="center><a href="https://www.fidelissecurity.com/"><img src="Logo.png" alt="Fidelis Cybersecurity on Github">
-</a></p>
+<p align="center><img src="Logo.png" alt="Fidelis Cybersecurity on Github"></p>
 
 # indicators
 
