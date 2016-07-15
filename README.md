@@ -1,5 +1,5 @@
 <p align="center><a href="https://www.fidelissecurity.com/">
-![Fidelis Cybersecurity on Github]("logo.png")
+![Fidelis Cybersecurity on Github]("Logo.png")
 </a></p>
 
 # indicators
