@@ -1,16 +1,6 @@
 
 <p align="center"><img src="Logo.png" alt="Fidelis Cybersecurity on Github"></p>
 
-# indicators
-
-The following is a listing of indicators from Fidelis Cybersecurity blog posts and FTAs.
-
-In the main directory is a master list of IPs, Hostnames and SHA256 hashses.
-
-Subdirectories are for specific FTAs or blog posts and will be linked in posts.
-
-This directory will also include a CIF config to routinely query and directly import our indicators into CIF.
-
 # Latest Releases
 July 12, 2016:
 [IOC's](https://git.io/vKlZb) from [Me and Mr. Robot: Tracking the Actor Behind the MAN1 Crypter](http://www.threatgeek.com/2016/07/tracking-man1-crypter-actor.html).
@@ -34,3 +24,13 @@ May 26, 2016:
 [IOC's](https://git.io/vrMCx) from [Vawtrak Trojan: Bank on it Evolving](http://www.threatgeek.com/2016/05/vawtrak-trojan-bank-on-it-evolving.html).
 
 [Click here](https://git.io/vrMCx)
+
+# Indicators
+
+    The following is a listing of indicators from Fidelis Cybersecurity blog posts and FTAs.
+
+    In the main directory is a master list of IPs, Hostnames and SHA256 hashses.
+
+    Subdirectories are for specific FTAs or blog posts and will be linked in posts.
+
+    This directory will also include a CIF config to routinely query and directly import our indicators into CIF.
