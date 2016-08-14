@@ -1,5 +1,5 @@
 # Indicator list for file hashes for FTA-1020,,,
-md5,sha256,description,date
+#md5,sha256,description,date
 a7bd555866ae1c161f78630a638850e7,fce3dd4bd160b8c0698ca1dfba37bc49b3e1ad80cf77a31741bdbd2fa698be36,initial dropper for inocnation campaign,12/15/2015
 4f4bf27b738ff8f2a89d1bc487b054a8,01a0c03f7e01bc41e91cff5d2610ac22da77dbfd01decf60c486b500390cd3ae,rat installer for inocnation campaign,12/15/2015
 75d3d1f23628122a64a2f1b7ef33f5cf,cd07ac5947c643854375603800a4f70e2dfe202c8a1f801204328921cb3a2a4c,rat payload for inocnation campaign,12/15/2015

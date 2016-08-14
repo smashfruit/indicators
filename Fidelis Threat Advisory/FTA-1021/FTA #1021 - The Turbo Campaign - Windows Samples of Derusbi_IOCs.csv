@@ -1,5 +1,5 @@
 ## We crafted a yara rule based on the, beacon, strings found in the Linux, 64-bit Derusbi, and detected the following, twenty-five (25) Windows version of, Derusbi samples.,,,,
-MD5,File Type,Compile Date (UTC),Mutex,XOR Key to decode driver,Rootkit MD5,C2,Port,Process created,Files created,Registry changes
+#MD5,File Type,Compile Date (UTC),Mutex,XOR Key to decode driver,Rootkit MD5,C2,Port,Process created,Files created,Registry changes
 3804d23ddb141c977b98c2885953444f,32-bits DLL,Mon Oct 10 02:08:34 2011 ,Ace123dx,6A F5 44 3D,32d50cf8daac1424e7249437b31d5476,firefox.dyndns-free.com,80,"regsvr32.exe /s /u  ""C:\WINDOWS\system32\msusb[3_random_characters].dat""","msusb[3_random_characters].dat
 {BC87739C-6024-412c-B489-B951C2F17000}.sys","HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\wuauserv\Parameters=%Systemroot%\System32\msusb[3_random_characters].dat
 

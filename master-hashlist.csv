@@ -1,5 +1,9 @@
 # Master list of hashes in all Fidelis ,Cybersecurity blogs and FTAs,,
 # md5,sha256,description,date
+627914b5c8663ca5c3fef7be88c9f3f2,6f9727385d3bf55e1d57fe7606999db2bc29f21b7f9d1d3fa7073218d73ac28d,Vawtrak packed sample from July 28 2016,7/28/2016
+d0301d5552775eb1e2398127568d5111,721b673777b927146b1a62fd2079f726624b3e7c789d6f04e5ccd6f122d44e2d,Vawtrak unpacked sample from July 28 2016,7/28/2016
+e75436d09b378f20de647ace1acd1d59,a513fc3dd36d24ea9fd17596607278aa47a03b67a3c09aff72fc2a8b8a9e0636,Vawtrak packed sample from Aug 1 2016,8/1/2016
+eb259aaa694ede59d8f6bf9fc7c7218a,37cf565b8ee6db67b11f2a084a11e30e14bfc8439c462270d01d50bdbae0ea61,Vawtrak unpacked sample from Aug 1 2016,8/1/2016
 5d56852cfa67dc2411b66276e3e4bc74,87eb4ac37261035011ab76c0cc8eb4a33d2bf701650d0e990145080a081798c9,Locky hash sample from Xenon blog,6/28/16
 e3103e07b2b20a2ea66fbbcf01e5fe13,7f7b02991ad6276e13d8eafdf648fdaa13b0815bf5e2d2391d73d002a2ce5347,Ruckgov hash sample from Xenon blog,6/28/16
 a7bd555866ae1c161f78630a638850e7,fce3dd4bd160b8c0698ca1dfba37bc49b3e1ad80cf77a31741bdbd2fa698be36,initial dropper for inocnation campaign,12/15/15
